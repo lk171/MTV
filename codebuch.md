@@ -14,8 +14,6 @@ Es handelt sich um ein ungerichtetes two-mode Netzwerk.
 
 (eindeutige Kodierung des Knoten)
 
-Codiert mit den Anfangsbuchstaben des Vor- und Nachnamen 
-
 
 **relation**
 
