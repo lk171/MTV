@@ -50,7 +50,7 @@ Art des Akteurs
 1 = Organisation
 
 
-**birth*
+**birth**
 
 Geburtsjahr
 
