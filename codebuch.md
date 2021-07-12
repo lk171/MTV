@@ -5,7 +5,7 @@
 
 https://www.stuttgarts-schoenster-sport.de/team/spielerinnen
 
-Es handelt sich um ein ungerichtetes two-mode Netzwerk.
+Es handelt sich um ein two-mode Netzwerk.
 
 
 ## EDGE-Attribute ##
@@ -17,14 +17,9 @@ Es handelt sich um ein ungerichtetes two-mode Netzwerk.
 
 **relation**
 
-Beziehungsart zwischen den Akteuren
+Mitgliedschaft in Organisationen (wie Verein und Heimatland)
 
-1 = Teamkollegin
-
-2 = Mitglied
-
-3 = Geburtsland
-
+1 = Mitgliedschaft
 
 
 ## NODE-Attribute ##
