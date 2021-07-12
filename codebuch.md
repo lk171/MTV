@@ -57,7 +57,17 @@ Geburtsjahr
 
 **age**
 
-Aktuelles Alter
+Aktuelles Alter, codiert in Abschnitten
+
+1 = 0-20 Jahre
+
+2 = 21-23 Jahre
+
+3 = 24-26 Jahre
+
+4 = 27-30 Jahre
+
+5 = über 30 Jahre
 
 
 **position**
