@@ -19,7 +19,9 @@ Es handelt sich um ein two-mode Netzwerk.
 
 Mitgliedschaft in Organisationen (wie Verein und Heimatland)
 
-1 = Mitgliedschaft
+1 = Mitgliedschaft (Verein)
+
+2 = Mitgliedschaft (Land)
 
 
 ## NODE-Attribute ##
