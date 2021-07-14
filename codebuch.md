@@ -62,7 +62,6 @@ Aktuelles Alter, codiert in Abschnitten
 
 4 = 27-30 Jahre
 
-5 = über 30 Jahre
 
 
 **position**
